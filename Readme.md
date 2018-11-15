@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/GetSelectedValuesAllColumns/Default.aspx) (VB: [Default.aspx](./VB/GetSelectedValuesAllColumns/Default.aspx))
+* [Default.aspx.cs](./CS/GetSelectedValuesAllColumns/Default.aspx.cs) (VB: [Default.aspx](./VB/GetSelectedValuesAllColumns/Default.aspx))
+<!-- default file list end -->
 # How to use a GetSelectedFieldValues method to obtain values of several columns at once
 
 
