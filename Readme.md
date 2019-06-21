@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/GetSelectedValuesAllColumns/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/GetSelectedValuesAllColumns/Default.aspx.vb))
 <!-- default file list end -->
 # How to use a GetSelectedFieldValues method to obtain values of several columns at once
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e319/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to use the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewASPxGridView_GetSelectedFieldValuestopic">ASPxGridView.GetSelectedFieldValues</a> method to obtain values of several (all) grid columns.</p><p><strong>See Also:</strong><br />
