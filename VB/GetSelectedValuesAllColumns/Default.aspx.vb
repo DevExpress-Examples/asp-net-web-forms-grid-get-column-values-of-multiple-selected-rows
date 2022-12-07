@@ -10,7 +10,7 @@ Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports System.Collections.Generic
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 
 Namespace GetSelectedValuesAllColumns
 	Partial Public Class _Default
