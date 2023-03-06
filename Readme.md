@@ -21,7 +21,7 @@ Follow the steps below:
         // ...
     }
     ```
-2. On a button's click, call the `GetSelectedValues` function. In this function, get the field names of grid columns and call the [GetSelectedFieldValues](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.GetSelectedFieldValues(System.String--)) method to obtain the field values of selected rows.
+2. In a button's `Click` event handler, call the `GetSelectedValues` function. In this function, get the field names of grid columns and call the [GetSelectedFieldValues](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.GetSelectedFieldValues(System.String--)) method to obtain the field values of selected rows.
 
     ```cs
     protected void ASPxButton1_Click(object sender, EventArgs e) {
