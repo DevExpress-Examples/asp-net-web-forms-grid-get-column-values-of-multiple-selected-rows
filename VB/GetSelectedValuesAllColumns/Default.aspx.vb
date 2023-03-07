@@ -18,7 +18,7 @@ Namespace GetSelectedValuesAllColumns
 		Protected Sub Page_Init(ByVal sender As Object, ByVal e As EventArgs)
 			ASPxGridView1.DataSource = GetData()
 			ASPxGridView1.KeyFieldName = "ID"
-			ASPxGridView1.SettingsBehavior.AllowMultiSelection = True
+			ASPxGridView1.SettingsBehavior.AllowSelectByRowClick = True
 			ASPxGridView1.DataBind()
 
 			If (Not IsPostBack) AndAlso (Not IsCallback) Then

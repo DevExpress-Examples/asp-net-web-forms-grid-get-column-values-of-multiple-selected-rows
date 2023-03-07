@@ -16,7 +16,7 @@ namespace GetSelectedValuesAllColumns {
         protected void Page_Init(object sender, EventArgs e) {
             ASPxGridView1.DataSource = GetData();
             ASPxGridView1.KeyFieldName = "ID";
-            ASPxGridView1.SettingsBehavior.AllowMultiSelection = true;            
+            ASPxGridView1.SettingsBehavior.AllowSelectByRowClick = true;
             ASPxGridView1.DataBind();
 
             if(!IsPostBack && !IsCallback) {
