@@ -52,6 +52,6 @@ Follow the steps below:
 
 ## Documentation
 
-* [Grid Selection](https://docs.devexpress.devx/AspNet/3737/components/grid-view/concepts/focus-and-navigation/selection)
+* [Grid Selection](https://docs.devexpress.com/AspNet/3737/components/grid-view/concepts/focus-and-navigation/selection)
 * [AllowSelectByRowClick](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewBehaviorSettings.AllowSelectByRowClick)
 * [GetSelectedFieldValues](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.GetSelectedFieldValues(System.String--))
