@@ -5,9 +5,6 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to get column values of multiple selected rows.
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543399/)**
-<!-- run online end -->
 
 This example demonstrates how to use the server-side [GetSelectedFieldValues](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.GetSelectedFieldValues(System.String--)) method to obtain field values of multiple selected rows.
 
