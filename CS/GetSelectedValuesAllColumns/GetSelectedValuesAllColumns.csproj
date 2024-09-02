@@ -10,6 +10,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GetSelectedValuesAllColumns</RootNamespace>
+	<TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <AssemblyName>GetSelectedValuesAllColumns</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
