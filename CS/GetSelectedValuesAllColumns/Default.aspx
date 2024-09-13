@@ -1,10 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="GetSelectedValuesAllColumns._Default" %>
 
 <%@ Register Assembly="DevExpress.Web.v24.2, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
-    Namespace="DevExpress.Web" TagPrefix="dxe" %>
-
-<%@ Register Assembly="DevExpress.Web.v24.2, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
-    Namespace="DevExpress.Web" TagPrefix="dxwgv" %>
+    Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -15,10 +12,10 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <dxwgv:ASPxGridView ID="ASPxGridView1" runat="server">
-        </dxwgv:ASPxGridView>
-        <dxe:ASPxButton ID="ASPxButton1" runat="server" OnClick="ASPxButton1_Click" Text="Get Selected Values">
-        </dxe:ASPxButton>
+        <dx:ASPxGridView ID="ASPxGridView1" runat="server">
+        </dx:ASPxGridView>
+        <dx:ASPxButton ID="ASPxButton1" runat="server" OnClick="ASPxButton1_Click" Text="Get Selected Values">
+        </dx:ASPxButton>
     </div>
         <asp:Literal ID="Literal1" runat="server"></asp:Literal>
     </form>
